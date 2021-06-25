@@ -1,2 +1,2 @@
 Created Personal Profile using React.Js. 
-Single page application usinf React Router
+Single page application using React Router
